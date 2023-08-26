@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE9eCce6a45ECe872050C27a94041e6097d9D8600",
+  "SCAN_LINK": "https://polygonscan.com/token/0xE9eCce6a45ECe872050C27a94041e6097d9D8600",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "straight-coder",
+  "SYMBOL": "SC",
+  "MAX_SUPPLY": 288,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/straight-coder",
+  "SHOW_BACKGROUND": true
+}
